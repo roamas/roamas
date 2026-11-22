@@ -1,76 +1,79 @@
-Hey, I’m Roaa 👋🏻
-Software Engineer | Frontend Developer
 
-I turn ideas into interactive, thoughtful, and user-friendly web experiences.
+<div align="center">
 
-I’m a Software Engineering graduate passionate about building modern web applications with React and TypeScript — combining clean code, creative UI, and real-world functionality.
+# Hey, I'm Roaa 👋🏻
 
-Currently, I’m growing my portfolio, exploring new technologies, and building things that make the web a little better.
+### Software Engineer · Frontend Developer
 
+*I turn ideas into interactive, thoughtful, and user-friendly web experiences.*
 
-⸻
+<br/>
 
+<a href="mailto:roamas16@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20me-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+</a>
+<a href="https://www.linkedin.com/in/roaa-masalmah/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
 
-✦ A little about me
+</div>
 
-• 💻 Focused on Frontend Development
-• ⚛️ Building with React & TypeScript
-• 🎨 Interested in UI/UX and creative web design
-• 🤖 Exploring AI-powered applications
-• 🚀 Always learning, always building
+---
 
+## ✦ A little about me
 
-⸻
+I'm a Software Engineering graduate passionate about building modern web applications with **React and TypeScript**.
 
+I love combining clean code, creative UI, and real-world functionality to create meaningful digital experiences.
 
-🛠️ Tech Stack
+- 💻 Focused on Frontend Development
+- 🎨 Interested in UI/UX and creative web design
+- 🤖 Exploring AI-powered applications
+- 🚀 Always learning, always building
 
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+---
 
+## 🛠️ Tech Stack
 
-⸻
+<div align="center">
 
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,firebase,git,github" />
 
-✨ Featured Projects
+</div>
 
-Nuivo — AI-Powered CV Builder (https://nuivo.netlify.app/)
+---
 
-An AI-powered resume builder designed to help users create, customize, and optimize their CVs for job applications.
+## ✨ Featured Projects
 
-• AI-generated content suggestions
-• ATS-based resume analysis
-• Real-time CV editing and templates
-• Firebase authentication and cloud storage
+### [Nuivo — AI-Powered CV Builder](https://nuivo.netlify.app)
 
-React TypeScript Firebase Gemini API
+An AI-powered resume builder that helps users create, customize, and optimize their CVs for job applications.
 
-Mini Chess ♟️
+- AI-generated content suggestions
+- ATS-based resume analysis
+- Real-time CV editing and customizable templates
+- Firebase authentication and cloud storage
+
+**Built with:** React · TypeScript · Firebase · Gemini API · Tailwind CSS
+
+### ♟️ Mini Chess
 
 A browser-based chess game featuring an interactive board, turn-based gameplay, and move validation.
 
-JavaScript
+**Built with:** JavaScript
 
+---
 
-⸻
+## 🌱 What's next?
 
-
-🌱 What’s next?
-
-I’m currently working on building stronger projects, improving my development skills, and creating applications that solve real problems.
+Currently building stronger projects, improving my development skills, and exploring new ways to create better web experiences.
 
 Always open to learning, collaborating, and connecting with fellow developers.
 
+---
 
-⸻
+<div align="center">
 
+### engineer by degree, artist by heart, developer by curiosity ✨
 
-Let’s connect!
-
-LinkedIn (https://www.linkedin.com/in/roaa-masalmah/) · Email (roamas16@gmail.com)
+</div>
